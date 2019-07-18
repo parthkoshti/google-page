@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+}
+.navbar {
+    height: 40px;
+}
+
+#nav-left {
+    float: left;
+    margin-left: 15px;
+}
+
+#nav-right {
+    float: right;
+    margin: 0 0px 0 0;
+}
+
+#nav-left, #nav-right {
+    line-height: 40px;
+}
+
+#nav-block {
+    padding-right: 10px;
+}
+
+.logo {
+    margin-top: 200px;;
+    margin-bottom: 20px;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#search {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block: 20px;
+}
+
+.footer {
+    position: absolute;
+    height: 41px;
+    bottom: 0;
+    background-color: rgb(179, 179, 179);
+    width: 100%;
+    border-top: solid black 1px;
+}
+
+
+#foot-right {
+    float: right;
+}
+
+#foot-left {
+    float: left;
+    margin-left: 15px;
+}
+
+#foot-right, #foot-left {
+    height: 40px;
+    line-heig
+    
